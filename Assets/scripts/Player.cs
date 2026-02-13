@@ -1,3 +1,4 @@
+using NUnit.Framework;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -9,9 +10,13 @@ public class Player : MonoBehaviour
     public LayerMask GroundLayer;
     private Rigidbody2D rb;
     private bool isgrounded;
+    public int extraJumpsValue = 1;
+    private int extrajumps;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        extrajumps = extraJumpsValue;
     }
 
     void Update()
@@ -19,9 +24,22 @@ public class Player : MonoBehaviour
         float moveinput = Input.GetAxis("Horizontal");
         rb.linearVelocity = new Vector2(moveinput * movespeed, rb.linearVelocity.y);
 
-        if (Input.GetKeyDown(KeyCode.Space) && isgrounded)
+        if (isgrounded)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpforce);
+            extrajumps = extraJumpsValue;
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (isgrounded)
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpforce);
+            }
+            else if (extrajumps > 0)
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpforce);
+                extrajumps--;
+            }
         }
     }
 

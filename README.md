@@ -87,6 +87,11 @@ windows 8.1 9600 |
 windows 8 9200 |
 windows 7 7601|
 
+Unity removed dx10/9 compatibility in version 2017.3 so yea no vista or xp support sorry players...
+i have another game that u can try if you want to play on windows xp or vista :)
+
+[check out midnight racer on my page <3]([https://pages.github.com/](https://github.com/beebopyomi/Midnight-Raccer))
+
 -----------------------------------------------------------------------------
 
 # log8

@@ -46,7 +46,7 @@ ok so coins are added and music is in the deathscreen. also there are spikes and
 
 -----------------------------------------------------------------------------
 
-# log5
+# log6
 
 # 23:33 17-02-2026
 
@@ -70,3 +70,24 @@ and yea that is about it for now... tommorow i have nothing to do so expect anot
 ## game release 1!!!!!!
 
 so like yea this game is good enough to release if you ask me so yea! give it a shot :)
+
+-----------------------------------------------------------------------------
+
+# log7
+
+# 23:55 17-02-2026
+
+switched rendering mode from dx12 to dx11 for better older system compatibility (windows)
+
+supported windows versions |
+------------- | 
+Windows 11 26h1  |
+windows 10 21h2 |
+windows 8.1 9600 |
+windows 8 9200 |
+windows 7 7601|
+
+Unity removed dx10/9 support in version 2017.3 so no windows vista and xp support sorry gang </3.
+
+hope ya enjoy the preformance boost stleast :p
+

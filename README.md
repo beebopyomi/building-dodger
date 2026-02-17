@@ -87,7 +87,27 @@ windows 8.1 9600 |
 windows 8 9200 |
 windows 7 7601|
 
-Unity removed dx10/9 support in version 2017.3 so no windows vista and xp support sorry gang </3.
+-----------------------------------------------------------------------------
 
-hope ya enjoy the preformance boost stleast :p
+# log8
+
+# 00:15 18-02-2026
+
+The first build is online!
+
+it ofcourse has some issues that need to be fixed but that is expected from a alpha release. 
+
+please turn down your volume! and if posible set your resolution to one of these
+
+Recomended resolutions! |
+------------- | 
+640x480  |
+800x600 |
+1024x768 |
+1280x960 |
+1600x1200 |
+
+if possible also turn off stretching on your display or in the settings of your operating system!\
+
+good luck have fun and nighty nighty players... (-_-)。゜zｚＺ
 

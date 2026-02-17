@@ -53,20 +53,17 @@ ok so coins are added and music is in the deathscreen. also there are spikes and
 <img width="1280" height="720" alt="so much..." src="wow.gif"/>
 
 ok so wow... i added so much stuff!
-Jakub  |
+stuff i added.  |
 ------------- | 
-Map  | 
-Movement Script  |
-Score script  |
--poland level.
--start menu.
--level select menu.
--fixed the hitbox of the airplane.
--added like normal pictures for when you finish the level.
--and just some stupid bugs that just pmo'd me and people who tried the game.
--changed the level design on the USA map to make it a little easier...
--fixed jumping not working on poland map.
--added wall's to stop people from falling off the map in poland and USA map.
+-poland level.|
+-start menu.|
+-level select menu.|
+-fixed the hitbox of the airplane.|
+-added like normal pictures for when you finish the level.|
+-and just some stupid bugs that just pmo'd me and people who tried the game.|
+-changed the level design on the USA map to make it a little easier...|
+-fixed jumping not working on poland map.|
+-added wall's to stop people from falling off the map in poland and USA map.|
 
 and yea that is about it for now... tommorow i have nothing to do so expect another update!!!!!
 

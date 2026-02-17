@@ -48,7 +48,7 @@ ok so coins are added and music is in the deathscreen. also there are spikes and
 
 # log5
 
-# 23:27 17-02-2026
+# 23:33 17-02-2026
 
 <img width="1280" height="720" alt="so much..." src="wow.gif"/>
 

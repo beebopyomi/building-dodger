@@ -53,6 +53,11 @@ ok so coins are added and music is in the deathscreen. also there are spikes and
 <img width="1280" height="720" alt="so much..." src="wow.gif"/>
 
 ok so wow... i added so much stuff!
+Jakub  |
+------------- | 
+Map  | 
+Movement Script  |
+Score script  |
 -poland level.
 -start menu.
 -level select menu.

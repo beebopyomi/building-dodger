@@ -87,6 +87,8 @@ windows 8.1 9600 |
 windows 8 9200 |
 windows 7 7601|
 
+## FOR THE GAME TO RUN ON WINDOWS 7 YOU DO ACTUALLY NEED A GPU THAT FULLY SUPPORTS DIRECTX 11 AND NOT (11)10!!!!!!
+
 Unity removed dx10/9 compatibility in version 2017.3 so yea no vista or xp support sorry players...
 i have another game that u can try if you want to play on windows xp or vista :)
 
@@ -115,4 +117,16 @@ Recomended resolutions! |
 if possible also turn off stretching on your display or in the settings of your operating system!\
 
 good luck have fun and nighty nighty players... (-_-)。゜zｚＺ
+
+-----------------------------------------------------------------------------
+
+# log9
+
+# 12:40 20-02-2026
+
+So the japan level is added! its quite big and there is a tripple jump function so that you can jump over the tokyo skytree!!!
+
+i really like how the japan level came together and i like it more then how much i like the poland level...
+
+resolution is now forced fo 1024xidk whatever that is!!!!
 

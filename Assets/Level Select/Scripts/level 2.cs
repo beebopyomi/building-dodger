@@ -1,6 +1,5 @@
 using UnityEngine;
-using UnityEditor.SceneManagement;
-
+using UnityEngine.SceneManagement;
 public class level2 : MonoBehaviour
 {
     public void LoadCurrentScene()

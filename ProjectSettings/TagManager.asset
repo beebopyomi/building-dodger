@@ -7,6 +7,7 @@ TagManager:
   - Block
   - Damage
   - CoinText
+  - pwr
   layers:
   - Default
   - TransparentFX

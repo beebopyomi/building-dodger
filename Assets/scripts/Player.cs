@@ -1,5 +1,7 @@
+using System;
 using System.Collections;
 using NUnit.Framework;
+using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,6 +10,7 @@ public class Player : MonoBehaviour
     public float movespeed = 5f;
     public int coins;
     public int health = 100;
+    public const int maxhealth = 100;
     public float jumpforce = 10f;
     public Transform groundcheck;
     public float groundcheckradius = 0.2f;
@@ -82,5 +85,11 @@ public class Player : MonoBehaviour
     private void Die()
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("GameOver");
+    }
+
+    internal void heal(int v)
+    {
+        health += 10;
+        health = Math.Clamp(health,0,maxhealth);
     }
 }
